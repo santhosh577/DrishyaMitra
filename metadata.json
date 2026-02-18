@@ -1,0 +1,8 @@
+{
+  "name": "DrishyaMitra AI",
+  "description": "An intelligent multi-agent photo management assistant with proactive privacy and emotional awareness.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
